@@ -14,4 +14,4 @@ This project analyzes one year of TikTok creator analytics data to identify key 
 - Content quality and intent are more important for conversion than reach alone.
 
 ## Files
-- `TikTok_Content_Performance_Analysis.ipynb` – Full Python analysis notebook
+- `TikTok_Content_Performance_Analysis (4).ipynb` – Full Python analysis notebook
